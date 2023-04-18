@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hans's GitHub!&fontAlign=80&fontAlignY=40&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hans's%20GitHub!&fontAlign=80&fontAlignY=40&color=gradient&fontSize=45)
+
 
 
 <!--
