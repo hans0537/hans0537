@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome To Sungjoo World%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hans's GitHub!&fontAlign=80&fontAlignY=40&color=gradient)
 
 
 <!--
